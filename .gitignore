@@ -1,0 +1,9 @@
+#ignore folders
+plugins
+platforms
+hooks
+.git
+
+#ignore files
+config.xml
+README
