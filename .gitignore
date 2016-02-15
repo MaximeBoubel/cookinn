@@ -3,7 +3,10 @@ plugins
 platforms
 hooks
 .git
+nbproject
+
 
 #ignore files
 config.xml
 README
+/nbproject/private/
