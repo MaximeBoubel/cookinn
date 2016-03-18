@@ -1,8 +1,11 @@
 #ignore folders
-plugins
-platforms
-hooks
+_db_schema
 .git
+hooks
+nbproject
+platforms
+plugins
+cookinn_server
 
 #ignore files
 config.xml

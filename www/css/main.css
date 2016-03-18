@@ -1,0 +1,11 @@
+.class-dir-test{
+    color: red;
+}
+
+.ng-invalid{
+    background-color: red;
+}
+
+.ng-untouched{
+    background-color: greenyellow;
+}
