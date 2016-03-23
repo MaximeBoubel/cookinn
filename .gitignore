@@ -1,8 +1,10 @@
 #ignore folders
-plugins
-platforms
-hooks
+_db_model
 .git
+hooks
+nbproject
+platforms
+plugins
 
 #ignore files
 config.xml
